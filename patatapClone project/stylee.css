@@ -1,0 +1,11 @@
+#myCanvas
+{
+width:100%;
+background-color: blueviolet;
+height: 100%;
+}
+body,html
+{
+    margin: 0;
+    height: 100%;
+}
